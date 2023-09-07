@@ -1,0 +1,22 @@
+{
+  "name": "npm-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandr2639/npm-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandr2639/npm-homework/issues"
+  },
+  "homepage": "https://github.com/aleksandr2639/npm-homework#readme",
+  "dependencies": {
+    "@aleksandr2639/ajs": "^1.0.0"
+  }
+}
